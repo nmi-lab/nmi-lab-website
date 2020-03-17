@@ -99,7 +99,7 @@ directions = "Take Elevator to Floor 2, Go to Office 2308"
 office_hours = ["During Academic Quarters: Wednesday 13:00 to 16:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "ahttp://tinyurl.com/nmi-lab-appointments"
+appointment_url = "http://tinyurl.com/nmi-lab-appointments"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
