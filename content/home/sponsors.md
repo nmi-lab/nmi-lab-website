@@ -33,6 +33,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-![](img/logo_nsf.gif)
+<img src="img/logo_nsf.gif" style="float:left; max-height:100px"/>
+<img src="img/logo_src_nri.jpg" style="float:left; max-height:100px"/>
+<img src="img/logo_kist.gif" style="float:left; max-height:100px"/>
+<img src="img/logo_intel.png" style="float:left; max-height:100px"/>
 
 
