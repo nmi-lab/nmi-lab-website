@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3646"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="39"
+   height="39"
+   viewBox="0 0 39.000001 39"
+   sodipodi:docname="logo_nmi_notext.svg"
+   inkscape:export-filename="/home/eneftci/Projects/lib/img/logo_nmi_text.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="2139"
+     id="namedview3648"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="18.741448"
+     inkscape:cx="19.155085"
+     inkscape:cy="10.379823"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3646">
+    <sodipodi:guide
+       id="guide4507"
+       orientation="0,1"
+       position="9.6922754,66.506219" />
+    <sodipodi:guide
+       id="guide4509"
+       orientation="0,1"
+       position="18.254776,70.693719" />
+    <sodipodi:guide
+       id="guide4511"
+       orientation="0,1"
+       position="23.754777,65.631218" />
+    <sodipodi:guide
+       id="guide4519"
+       orientation="0,1"
+       position="32.067277,50.693718" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3652">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3650" />
+  <rect
+     y="0.0058158846"
+     x="0"
+     height="39"
+     width="39"
+     id="rect4521"
+     style="opacity:1;fill:#6b6b6b;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <g
+     id="g4239"
+     transform="translate(0,2.9405587)">
+    <path
+       style="fill:#ff8e00;fill-opacity:0.97647059;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.8797754,6.306283 24.0625006,0 2.243269,3.295152 0,16.689223 -4.368269,0 0,-15.796875 -2.9375,0 0,15.796875 -3.9375,0 0,-15.796875 -3,0 0,15.796875 -4.46653,0 0,-15.796875 -3.4709706,0 0,15.796875 -4.025563,0 z"
+       id="path4513"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <path
+       style="fill:#ff8e00;fill-opacity:0.97647059;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.004776,11.368783 0,14.921875 3.8125,0 0,-14.921875 z"
+       id="path4515"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ff8e00;fill-opacity:0.97647059;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.004776,6.306283 0,3.6875 3.8125,0 0,-3.6875 z"
+       id="path4517"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     id="g7357"
+     transform="matrix(0.9762312,0,0,0.9762312,-7.5408344,20.743668)"
+     style="fill:#e6e6e6;fill-opacity:1" />
+</svg>
