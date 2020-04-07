@@ -1,7 +1,7 @@
 ---
 title: "Stochastic synapses as resource for efficient deep learning machines"
 date: 2017-12-01
-publishDate: 2020-03-13T23:43:42.985817Z
+publishDate: 2020-04-06T21:48:26.090884Z
 authors: ["EO Neftci"]
 publication_types: ["1"]
 abstract: ""

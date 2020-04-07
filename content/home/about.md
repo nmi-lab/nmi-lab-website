@@ -22,6 +22,10 @@ author = "lab"
 
 # Text color (true=light or false=dark).
 # text_color_light = true  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "10px", "0"]
   
 [advanced]
  # Custom CSS. 

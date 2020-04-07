@@ -1,7 +1,7 @@
 ---
 title: "Systematic Construction of Finite State Automata Using VLSI Spiking Neurons"
 date: 2012-07-01
-publishDate: 2020-03-13T23:43:42.981607Z
+publishDate: 2020-04-06T21:48:26.088693Z
 authors: ["E. Neftci", "J. Binas", "E. Chicca", "G. Indiveri", "R. Douglas"]
 publication_types: ["6"]
 abstract: ""

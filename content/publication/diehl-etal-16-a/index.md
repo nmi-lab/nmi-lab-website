@@ -1,7 +1,7 @@
 ---
 title: "TrueHappiness: Neuromorphic Emotion Recognition on TrueNorth"
 date: 2016-07-01
-publishDate: 2020-03-13T23:43:42.974668Z
+publishDate: 2020-04-06T21:48:26.085155Z
 authors: ["PU Diehl", "BU Pedroni", "A Cassidy", "P Merolla", "EO Neftci", "G Zarrella"]
 publication_types: ["1"]
 abstract: ""

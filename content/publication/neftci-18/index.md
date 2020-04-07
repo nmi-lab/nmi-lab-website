@@ -1,7 +1,7 @@
 ---
 title: "Data and Power Efficient Intelligence with Neuromorphic Learning Machines"
 date: 2018-07-01
-publishDate: 2020-03-13T23:43:42.986126Z
+publishDate: 2020-04-06T21:48:26.091050Z
 authors: ["Emre O. Neftci"]
 publication_types: ["2"]
 abstract: ""

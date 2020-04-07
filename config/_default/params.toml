@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -96,7 +96,7 @@ directions = "Take Elevator to Floor 2, Go to Office 2308"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["During Academic Quarters: Wednesday 13:00 to 16:00"]
+office_hours = ["Office Hours During Academic Quarters: Wednesday 13:00 to 16:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendar.google.com/calendar/selfsched?sstoken=UUt4VlpEblR1UlQyfGRlZmF1bHR8NzMwMDE4MGE0NzhmNDI5NGQ5Nzk5M2YzMzk5YzkxMjQ"
@@ -104,7 +104,7 @@ appointment_url = "https://calendar.google.com/calendar/selfsched?sstoken=UUt4Vl
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/virtualmind"},
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/nmi-lab"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
