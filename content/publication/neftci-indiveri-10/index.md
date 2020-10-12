@@ -1,7 +1,7 @@
 ---
 title: "A Device Mismatch Compensation Method for VLSI Spiking Neural Networks"
 date: 2010-11-01
-publishDate: 2020-04-06T21:48:26.087812Z
+publishDate: 2020-04-29T17:50:07.284318Z
 authors: ["E. Neftci", "G. Indiveri"]
 publication_types: ["1"]
 abstract: ""

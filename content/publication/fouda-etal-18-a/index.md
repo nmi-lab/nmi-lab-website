@@ -1,7 +1,7 @@
 ---
 title: "Independent Component Analysis Using RRAMs"
 date: 2018-11-01
-publishDate: 2020-04-06T21:48:26.086013Z
+publishDate: 2020-04-29T17:50:07.282251Z
 authors: ["M. E. Fouda", "E. Neftci", "A. Eltawil", "F. Kurdahi"]
 publication_types: ["2"]
 abstract: ""
